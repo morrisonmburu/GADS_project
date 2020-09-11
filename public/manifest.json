@@ -1,0 +1,9 @@
+{
+    "name": "GADS Weather App",
+    "short_name": "GADS_weather",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#1e202b",
+    "theme_color": "#1e202b",
+    "orientation": "portrait-primary"
+  }
